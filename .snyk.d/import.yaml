@@ -6,6 +6,7 @@ tags:
   application: example
   team: cse
 branches:
+  - main
   - development
 instance:
   security:
