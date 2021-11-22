@@ -1,0 +1,15 @@
+---
+schema: 1
+orgName: cse-ownership
+integrationName: github-enterprise
+tags:
+  application: example
+  team: cse
+branches:
+  - development
+instance:
+  security:
+    branches:
+      - main
+    tags:
+      team: security
