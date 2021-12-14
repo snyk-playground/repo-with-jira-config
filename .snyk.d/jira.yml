@@ -5,8 +5,8 @@ snyk:
     ifUpgradeAvailableOnly: true
     # priorityScoreThreshold: 0
 jira:
-    jiraTicketType: Task
-    jiraProjectKey: IE
+    jiraTicketType: Story
+    jiraProjectKey: CS
     # jiraProjectID: <12345>
     # assigneeId: <123abc456def789>
     # assigneeName: <AccountName>
