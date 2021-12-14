@@ -18,7 +18,7 @@ jira:
     #    - <IssueLabel2>
     # priorityIsSeverity: <true|false>
     # severityToPriorityMapping:
-        critical: "Highest"
-        high: "High"
-        medium: "Medium"
-        low: "Low"
+    #    critical: "Highest"
+    #    high: "High"
+    #    medium: "Medium"
+    #    low: "Low"
