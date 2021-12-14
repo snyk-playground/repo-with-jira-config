@@ -1,6 +1,6 @@
 schema: 1
 snyk: 
-    orgID: a1b2c3de-99b1-4f3f-bfdb-6ee4b4990513
+    # orgID: a1b2c3de-99b1-4f3f-bfdb-6ee4b4990513
     severity: critical #threshold for jira ticket creation
     # maturityFilter: mature
     ifUpgradeAvailableOnly: true
